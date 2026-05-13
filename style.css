@@ -1,10 +1,10 @@
 body {
   /*background-image: url("images/header.png");*/
-  background-image: linear-gradient(purple, red, blue);
+  background-image: linear-gradient(blue,teal);
   font-family: 'Open Sans', sans-serif;
-  color: white;
+  color: #c7d0cd;
   margin: 0;
-  background-color: black;
+  background-color: #112621;
 }
 
 div {
@@ -12,7 +12,7 @@ div {
 and images in "divs" and then move them around the page. */
   padding: 15px;
   margin: 15px;
-  background: black;
+  background: #112621;
 }
 
 img {
@@ -21,7 +21,7 @@ img {
 }
 
 p {
-  background: black;
+  background: #112621;
 }
 
 h1, h2, h3 {
@@ -32,14 +32,14 @@ ul, ol {
   list-style-position: inside;
 }
 .topnav {
-  background-color: #333;
+  background-color: #112621;
   overflow: hidden;
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
-  color: #f2f2f2;
+  color: #c7d0cd;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -49,17 +49,17 @@ ul, ol {
 /* Change the color of links on hover */
 .topnav a:hover {
   background-color: #ddd;
-  color: black;
+  color: #112621;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
   background-color: #aa04a2;
-  color: white;
+  color: #c7d0cd;
 }
 
 #bio {
-  background: black;
+  background: #112621;
   margin: 0px;
   padding: 10px;
   text-align: center;
